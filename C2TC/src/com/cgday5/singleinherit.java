@@ -1,4 +1,4 @@
-package com.cgday2;
+package com.cgday5;
 class single{
 	public void singlepen() {
 		System.out.println("single");

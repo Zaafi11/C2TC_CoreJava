@@ -1,14 +1,11 @@
 package com.cgday1;
 
-public class basics {
+public class emoji {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//arthimetic
-		
-		System.out.println("Hello World");
-		
-		
+		System.out.print("\uD83D\uDE00");
+		System.out.print("\uD83D\uDE00");
 
 	}
 

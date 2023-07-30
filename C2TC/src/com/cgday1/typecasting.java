@@ -1,14 +1,12 @@
 package com.cgday1;
 
-public class basics {
+public class typecasting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//arthimetic
-		
-		System.out.println("Hello World");
-		
-		
+		int value=10;
+		double var=value;
+		System.out.println(var);
 
 	}
 
