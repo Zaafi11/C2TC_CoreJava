@@ -5,7 +5,7 @@ public class Savingamount extends Person implements Bank{
 	private float balance;
 	
 	public Savingamount(String name, String city,int accNo, float balance) {
-		super(name, city);
+		super();
 		this.accNo = accNo;
 		this.balance = balance;
 	}
